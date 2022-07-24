@@ -75,7 +75,7 @@ const HeroesAddForm: FC = (): ReactElement => {
     return (
         <form className="border p-4 shadow-lg rounded" onSubmit={addHero}>
             <div className="mb-3">
-                <label htmlFor="name" className="form-label fs-4">Имя нового героя</label>
+                <label htmlFor="name" className="form-label fs-4">Имя нового героя111</label>
                 <input 
                     required
                     type="text" 
