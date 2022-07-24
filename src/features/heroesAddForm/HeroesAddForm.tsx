@@ -88,7 +88,7 @@ const HeroesAddForm: FC = (): ReactElement => {
             </div>
 
             <div className="mb-3">
-                <label htmlFor="text" className="form-label fs-4">Описание222</label>
+                <label htmlFor="text" className="form-label fs-4">Описание111</label>
                 <textarea
                     required
                     name="text" 
