@@ -9,14 +9,14 @@ import HeroesFilters from '../heroesFilters/HeroesFilters';
 const App: FC = (): ReactElement => {
     return (
         <main className="app">
-            <div className="content">
+            {/* <div className="content">
                 <HeroesList />
                 <div className="content__interactive">
                     <HeroesAddForm />
                     <HeroesFilters />
                     <p>Тестовый абзац23</p>
                 </div>
-            </div>
+            </div> */}
         </main>
     );
 };
