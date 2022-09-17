@@ -14,6 +14,7 @@ const App: FC = (): ReactElement => {
                 <div className="content__interactive">
                     <HeroesAddForm />
                     <HeroesFilters />
+                    <p>Тестовый абзац</p>
                 </div>
             </div>
         </main>
